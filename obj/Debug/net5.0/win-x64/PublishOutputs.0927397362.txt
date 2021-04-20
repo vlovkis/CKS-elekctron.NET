@@ -38,5 +38,4 @@ C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Host\bin\appsettings.Develo
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Host\bin\appsettings.json
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Host\bin\electron.manifest.json
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Host\bin\CKS-elekctron.NET.pdb
-C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Host\bin\CKS-elekctron.NET.Views.pdb
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Host\bin\CKS-elekctron.NET.exe
