@@ -15624,8 +15624,18 @@
       "FileKind": "mvc"
     },
     {
+      "FilePath": "c:\\Users\\Lenovo\\Desktop\\Combat\\CKS-elekctron.NET\\Pages\\devicesettings.cshtml",
+      "TargetPath": "Pages\\devicesettings.cshtml",
+      "FileKind": "mvc"
+    },
+    {
       "FilePath": "c:\\Users\\Lenovo\\Desktop\\Combat\\CKS-elekctron.NET\\Pages\\Index.cshtml",
       "TargetPath": "Pages\\Index.cshtml",
+      "FileKind": "mvc"
+    },
+    {
+      "FilePath": "c:\\Users\\Lenovo\\Desktop\\Combat\\CKS-elekctron.NET\\Pages\\gamesettings.cshtml",
+      "TargetPath": "Pages\\gamesettings.cshtml",
       "FileKind": "mvc"
     },
     {

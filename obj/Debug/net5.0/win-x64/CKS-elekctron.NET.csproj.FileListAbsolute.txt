@@ -45,3 +45,5 @@ C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Debug\net5.0\win-x64\CKS-el
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Debug\net5.0\win-x64\ref\CKS-elekctron.NET.dll
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Debug\net5.0\win-x64\CKS-elekctron.NET.pdb
 C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Debug\net5.0\win-x64\CKS-elekctron.NET.genruntimeconfig.cache
+C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Debug\net5.0\win-x64\Razor\Pages\devicesettings.cshtml.g.cs
+C:\Users\Lenovo\Desktop\Combat\CKS-elekctron.NET\obj\Debug\net5.0\win-x64\Razor\Pages\gamesettings.cshtml.g.cs
